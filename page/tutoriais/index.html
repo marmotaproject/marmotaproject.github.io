@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="br" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Tutoriais - Marmota</title>
+  <meta name="description" content="Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN Como criar um blog com Hugo - PT-BR - Vitor Lobo   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.">
+  <meta name="author" content="Marmota"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Marmota",
+    
+    "url": "https:\/\/marmota.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/marmota.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/marmota.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/marmota.github.io\/page\/tutoriais\/",
+          "name": "Tutoriais"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "Marmota"
+  },
+  "headline": "Tutoriais",
+  "description" : "Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN Como criar um blog com Hugo - PT-BR - Vitor Lobo   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros\/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.",
+  "inLanguage" : "br",
+  "wordCount":  398 ,
+  "datePublished" : "0001-01-01T00:00:00",
+  "dateModified" : "0001-01-01T00:00:00",
+  "image" : "https:\/\/marmota.github.io\/img\/avatar-icon.png",
+  "keywords" : [ "" ],
+  "mainEntityOfPage" : "https:\/\/marmota.github.io\/page\/tutoriais\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/marmota.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/marmota.github.io\/img\/avatar-icon.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Tutoriais" />
+<meta property="og:description" content="Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN Como criar um blog com Hugo - PT-BR - Vitor Lobo   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.">
+<meta property="og:image" content="https://marmota.github.io/img/avatar-icon.png" />
+<meta property="og:url" content="https://marmota.github.io/page/tutoriais/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Marmota" />
+
+  <meta name="twitter:title" content="Tutoriais" />
+  <meta name="twitter:description" content="Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN Como criar um blog com Hugo - PT-BR - Vitor Lobo   Cursos e Tutoriais …">
+  <meta name="twitter:image" content="https://marmota.github.io/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <link href='https://marmota.github.io/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.60.0" />
+  <link rel="alternate" href="https://marmota.github.io/index.xml" type="application/rss+xml" title="Marmota"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://marmota.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://marmota.github.io/css/highlight.min.css" /><link rel="stylesheet" href="https://marmota.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Ver navegação</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://marmota.github.io/">Marmota</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Home" href="/">Home</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tutoriais" href="/page/tutoriais/">Tutoriais</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Desafios" href="/page/desafios/">Desafios</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Apoio" href="/page/apoio/">Apoio</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Sobre" href="/page/sobre/">Sobre</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Contato" href="/page/contato">Contato</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="Marmota" href="https://marmota.github.io/">
+            <img class="avatar-img" src="https://marmota.github.io/img/avatar-icon.png" alt="Marmota" />
+          </a>
+        </div>
+      </div>
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              
+                <h1>Tutoriais</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <h3 id="cursos-em-vdeo-gratuitos">Cursos em vídeo gratuitos</h3>
+<ul>
+<li><strong><a href="https://www.youtube.com/watch?v=WiGU_ZB-u0w&amp;list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Go Aprenda a Programar</a></strong> - PT-BR - Ellen Körbes</li>
+<li><strong><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX">Go Language Programming Practical Basics Tutorial</a></strong> - EN</li>
+<li><strong><a href="https://youtu.be/jjb2rgt9okY">Como criar um blog com Hugo</a></strong> - PT-BR - Vitor Lobo</li>
+</ul>
+<hr>
+<h3 id="cursos-e-tutoriais">Cursos e Tutoriais</h3>
+<ul>
+<li><strong><a href="https://larien.gitbook.io/aprenda-go-com-testes/">Lauren Ferreira</a></strong> - Curso de introdução a programação Go com base em testes. - PT-BR</li>
+</ul>
+<hr>
+<h3 id="livrosweb-livros-gratuitos">Livros/Web livros gratuitos</h3>
+<ul>
+<li><strong><a href="http://www.golangbootcamp.com/">Golang Bootcamp</a></strong> - Livro gratuito online ou em pdf - EN</li>
+<li><strong><a href="https://www.openmymind.net/The-Little-Go-Book/">The Little Go Book</a></strong> - Livro gratuito mais resumido - EN</li>
+<li><strong><a href="https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html">Build Web Application with Golang</a></strong> - Construíndo aplicações web em GO - EN</li>
+<li><strong><a href="http://www.golang-book.com/">Golang Book</a></strong> - Mais um livro gratuito em GO - EN</li>
+<li><strong><a href="https://collabnix.github.io/gopherlabs/">Gopherlabs</a></strong> - Outro material interessante para explorar - EN</li>
+<li><strong><a href="https://quii.gitbook.io/learn-go-with-tests/">Quii Learn Go with Tests</a></strong> - Livro gratuito em formato Gitbook - EN</li>
+<li><strong><a href="https://golangbot.com/learn-golang-series/">Golang Tutorial Series</a></strong> - Introdução rápida ao GO - EN</li>
+<li><strong><a href="https://go101.org/article/101.html">Go101</a></strong> - Contém quizzes, exercícios, Wiki, etc.. - EN</li>
+<li><strong><a href="https://gobyexample.com/">Go by Example</a></strong> - Ótimo para consultas rápidas a exemplos práticos - EN</li>
+</ul>
+<hr>
+<h3 id="documentao">Documentação</h3>
+<ul>
+<li><strong><a href="http://www.golangbr.org/doc/">Golang Brasil</a></strong> - Documentação Oficial - PT-BR</li>
+<li><strong><a href="https://golang.org/doc/">Golang.org</a></strong> - Documentação oficial - EN</li>
+<li><strong><a href="https://go.dev/">Go.dev</a></strong> - Documentação oficial - EN</li>
+</ul>
+<hr>
+<h3 id="sites-de-busca-e-ajuda">Sites de Busca e Ajuda</h3>
+<ul>
+<li><strong><a href="https://stackoverflow.com/questions/tagged/go?tab=Newest">Stackoverflow</a></strong> - Site de perguntas e respostas sobre várias tecnologias</li>
+</ul>
+<hr>
+<h3 id="dicas">Dicas</h3>
+<ul>
+<li><strong><a href="https://marmota.github.io/docs/howto-hugo/">Como ajudar no site do marmota</a></strong> - Como enviar um Pull Request para o site</li>
+</ul>
+<hr>
+<h3 id="livros-recomendados">Livros recomendados</h3>
+<ul>
+<li><strong><a href="https://url.gratis/3hiBp">Head First GO</a></strong> - Livro muito bom para iniciantes.</li>
+<li><strong><a href="https://url.gratis/9ekYl">A linguagem de programação GO</a></strong> - Publicado em PT-BR pela editora Novatec.</li>
+<li><strong><a href="https://url.gratis/BsFgp">GO em Ação</a></strong> - Publicado em PT-BR pela editora Novatec.</li>
+<li><strong><a href="https://url.gratis/H9wOw">Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis</a></strong> - Publicado em PT-BR pela editora Novatec.</li>
+<li><strong><a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go">Machine Learning with Go</a></strong> - Uma abordagem Go para Machine Learning.</li>
+</ul>
+<hr>
+<h3 id="plataforma-de-exerccios">Plataforma de exercícios</h3>
+<ul>
+<li><strong><a href="https://exercism.io/"><a href="https://exercism.io/">https://exercism.io/</a></a></strong> - Plataforma de exercícios online para diversas linguagens de programação.</li>
+<li><strong><a href="https://play.golang.org/"><a href="https://play.golang.org/">https://play.golang.org/</a></a></strong> - Plataforma para você aprender a programar em Go online, sem precisar instalar nada no seu computador.</li>
+</ul>
+<hr>
+<h3 id="packages-conhecidos">Packages Conhecidos</h3>
+<ul>
+<li><strong><a href="https://github.com/urfave/cli">cli</a></strong> - A simple, fast, and fun package for building command line apps in Go</li>
+<li><strong><a href="https://github.com/spf13/cobra">cobra</a></strong> - A Commander for modern Go CLI interactions</li>
+</ul>
+<hr>
+<h3 id="github">Github</h3>
+<ul>
+<li><strong><a href="https://github.com/brunopadz/amictl">Bruno Padilha, Fernando Barbosa</a></strong> - Projeto para gerenciamento das AIM's e Imagens na AWS, o projeto está em desenvolvimento mas se você quiser <strong><a href="https://github.com/brunopadz/amictl/blob/master/CONTRIBUTING.md">contribuir</a></strong> será bem vindo.</li>
+</ul>
+<hr>
+<h3 id="blogs">Blogs</h3>
+<ul>
+<li><strong><a href="https://crg.eti.br/post/">Cesar Gimenes</a></strong> - Contém uma série de artigos e tutoriais em PT-BR.</li>
+<li><strong><a href="https://blog.learngoprogramming.com/">Inanc Gumus</a></strong> - Artigos e tutoriais demonstrando os aspectos e caracteristicas da linguagem em EN.</li>
+</ul>
+<hr>
+<h3 id="diversos">Diversos</h3>
+<ul>
+<li><strong><a href="https://golang.hotexamples.com"><a href="https://golang.hotexamples.com">https://golang.hotexamples.com</a></a></strong> - Diversos exemplos em código para estudos.</li>
+<li><strong><a href="https://gowalker.org"><a href="https://gowalker.org/">https://gowalker.org/</a></a></strong> - Diversos exemplos de um determinadoo pacote usado em projetos.</li>
+</ul>
+
+
+        
+
+        
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                
+
+<div class="share-box" aria-hidden="true">
+    <ul class="share">
+      
+      <li>
+        <a href="//twitter.com/share?url=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f&amp;text=Tutoriais&amp;via=" target="_blank" title="Share on Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f" target="_blank" title="Share on Facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//reddit.com/submit?url=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f&amp;title=Tutoriais" target="_blank" title="Share on Reddit">
+          <i class="fab fa-reddit"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f&amp;title=Tutoriais" target="_blank" title="Share on LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f&amp;title=Tutoriais" target="_blank" title="Share on StumbleUpon">
+          <i class="fab fa-stumbleupon"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fmarmota.github.io%2fpage%2ftutoriais%2f&amp;description=Tutoriais" target="_blank" title="Share on Pinterest">
+          <i class="fab fa-pinterest"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+  
+
+              </div>
+            </section>
+        
+
+        
+          
+
+          
+        
+      </article>
+
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+    <div class="page-meta">
+  
+  
+  
+</div>
+
+
+  
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:lobocode@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/marmota" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="https://marmota.github.io">Marmota</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2020
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://marmota.github.io/">Marmota</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.60.0</a> alimentada &nbsp;&bull;&nbsp; Tema <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adaptado de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://marmota.github.io/js/main.js"></script>
+<script src="https://marmota.github.io/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://marmota.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

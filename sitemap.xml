@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://marmota.github.io/docs/howto-hugo/</loc>
+    <lastmod>2020-05-08T20:53:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/docs/</loc>
+    <lastmod>2020-05-08T20:53:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/</loc>
+    <lastmod>2020-05-08T20:53:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/post/</loc>
+    <lastmod>2020-05-07T21:36:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/post/welcome/</loc>
+    <lastmod>2020-05-07T21:36:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/apoio/</loc>
+    <lastmod>2020-05-06T12:59:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/</loc>
+    <lastmod>2020-05-06T12:59:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/sobre/</loc>
+    <lastmod>2020-05-04T22:25:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/contato/</loc>
+    <lastmod>2020-05-04T22:23:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/desafios/</loc>
+    <lastmod>2020-05-04T22:06:52-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marmota.github.io/page/tutoriais/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,93 @@
+baseurl = "https://marmota.github.io/"
+DefaultContentLanguage = "br"
+title = "Marmota"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Grupo de estudos Golang"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Marmota"
+  website = "https://marmota.github.io"
+  email = "lobocode@gmail.com"
+  github = "marmota"
+  #twitter = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #telegram = ""
+  #slack = "username"
+
+
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tutoriais"
+    url = "page/tutoriais/"
+    weight = 2
+
+[[menu.main]]
+    name = "Desafios"
+    url = "page/desafios/"
+    weight = 3
+
+[[menu.main]]
+    name = "Apoio"
+    url = "page/apoio/"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Sobre"
+    url = "page/sobre/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contato"
+    url = "page/contato"
+    weight = 6

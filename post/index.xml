@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marmota</title>
+    <link>https://marmota.github.io/post/</link>
+    <description>Recent content in Posts on Marmota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lobocode@gmail.com (Marmota)</managingEditor>
+    <webMaster>lobocode@gmail.com (Marmota)</webMaster>
+    <lastBuildDate>Thu, 07 May 2020 21:36:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://marmota.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sejam bem-vind(x)s</title>
+      <link>https://marmota.github.io/post/welcome/</link>
+      <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
+      <author>lobocode@gmail.com (Marmota)</author>
+      <guid>https://marmota.github.io/post/welcome/</guid>
+      <description>Sejam bem-vind(x)s ao grupo de estudos Marmota!
+ Nota: Primeiramente, FIQUE EM CASA! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu Apoio.
+ Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades.</description>
+    </item>
+    
+  </channel>
+</rss>
