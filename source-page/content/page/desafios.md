@@ -13,7 +13,7 @@ draft: false
 
     O curso em sí já oferece exercícios que são importantes no processo de aprendizagem. Portanto, se quer começar um desafio, recomendamos que comece por este! Faça os exercícios propostos no curso da Ellen. Após a resolução dos exercícios, poderemos nos reunir online afim de tirar dúvidas, sugerir outras resoluções e compartilhar conhecimento.
 
-![https://raw.githubusercontent.com/marmota/marmota.github.io/master/img/road00.png](https://raw.githubusercontent.com/marmota/marmota.github.io/master/img/road00.png)
+![https://raw.githubusercontent.com/marmotaproject/marmotaproject.github.io/master/img/road00.png](https://raw.githubusercontent.com/marmotaproject/marmotaproject.github.io/master/img/road00.png)
 
 ---
 

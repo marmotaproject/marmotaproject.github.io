@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Marmota</title>
-    <link>https://marmota.github.io/docs/</link>
+    <link>https://marmotaproject.github.io/docs/</link>
     <description>Recent content in Docs on Marmota</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lobocode@gmail.com (Marmota)</managingEditor>
     <webMaster>lobocode@gmail.com (Marmota)</webMaster>
     <lastBuildDate>Fri, 08 May 2020 20:53:54 -0300</lastBuildDate>
     
-	<atom:link href="https://marmota.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marmotaproject.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como enviar um PR para o projeto</title>
-      <link>https://marmota.github.io/docs/howto-hugo/</link>
+      <link>https://marmotaproject.github.io/docs/howto-hugo/</link>
       <pubDate>Fri, 08 May 2020 20:53:54 -0300</pubDate>
       <author>lobocode@gmail.com (Marmota)</author>
-      <guid>https://marmota.github.io/docs/howto-hugo/</guid>
+      <guid>https://marmotaproject.github.io/docs/howto-hugo/</guid>
       <description>Se você deseja contribuir para a página do projeto marmota e não sabe como, abaixo tem o passo a passo:
  Instale o Golang em seu pc/laptop. Se for alguma distro Linux, basta digita este comando:  curl -s https://raw.githubusercontent.com/lobocode/gotools/master/goinstall/goinstall.sh | bash Caso seja Windows ou Mac, consulte a documentação oficial.
  Em seguida, instale o Hugo. Faça um fork do projeto e em seguida clone ele em sua máquina com o seguinte comando:  git clone https://github.</description>

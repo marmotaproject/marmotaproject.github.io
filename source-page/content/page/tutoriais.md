@@ -48,7 +48,7 @@ draft: false
 
 ### Dicas
 
-* **[Como ajudar no site do marmota](https://marmota.github.io/docs/howto-hugo/)** - Como enviar um Pull Request para o site
+* **[Como ajudar no site do marmotaproject](https://marmotaproject.github.io/docs/howto-hugo/)** - Como enviar um Pull Request para o site
 
 ---
 

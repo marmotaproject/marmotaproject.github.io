@@ -28,4 +28,4 @@ Para participar, basta você acolher a proposta de estudar conosco e seguir noss
 
 ### Código de conduta
 
-Por favor, se informe a cerca de nosso **[código de conduta](https://github.com/marmota/marmota.github.io/blob/master/coc/coc.md)**. O código de conduta foi elaborado com a finalidade de sugerir orientações de conduta para uma convivência saudável em grupo. 
+Por favor, se informe a cerca de nosso **[código de conduta](https://github.com/marmotaproject/marmotaproject.github.io/blob/master/coc/coc.md)**. O código de conduta foi elaborado com a finalidade de sugerir orientações de conduta para uma convivência saudável em grupo. 

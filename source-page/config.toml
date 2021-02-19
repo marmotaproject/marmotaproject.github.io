@@ -1,4 +1,4 @@
-baseurl = "https://marmota.github.io/"
+baseurl = "https://marmotaproject.github.io/"
 DefaultContentLanguage = "br"
 title = "Marmota"
 theme = "beautifulhugo"
@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Marmota"
-  website = "https://marmota.github.io"
+  website = "https://marmotaproject.github.io"
   email = "lobocode@gmail.com"
   github = "marmota"
   #twitter = "username"

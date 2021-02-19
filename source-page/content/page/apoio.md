@@ -33,7 +33,7 @@ Nós do grupo de estudos Marmota ajudamos a divulgar canais, blogs, podcasts que
 * **Mateus Fidelis**: [**Mateus Fidelis**](https://www.youtube.com/channel/UC-JJ1NXjx8QI-tuG0PMFbhA) Quer aprender a terraformar as coisas e também sobre DevOps/SRE? Ele manja muito! Ele começou o canal a pouco mas já esta com uma série de vídeos legais sobre Terraform + AWS, conteúdo prático e sem mimimi!
 * **Guto Carvalho**: [**Sysadmin QCoda**](https://www.youtube.com/user/gutoccarvalho) O cara foi foi um dos primeiros a trazer conteúdo sobre DevOps e gerencia de configuração em Português, referência para muita gente nesse mundinho de TI, recheado de conteúdo prático.
 
-> **Nota**: Se seu canal não está nesta lista, não se preocupe, iremos adicionar mais canais que apoiamos com o tempo. Ou se preferir, você mesmo poderá adicionar pois este **[projeto é totalmente aberto](https://github.com/marmota/marmota.github.io/blob/master/source-page/README.md)**.
+> **Nota**: Se seu canal não está nesta lista, não se preocupe, iremos adicionar mais canais que apoiamos com o tempo. Ou se preferir, você mesmo poderá adicionar pois este **[projeto é totalmente aberto](https://github.com/marmotaproject/marmotaproject.github.io/blob/master/source-page/README.md)**.
 
 ---
 
