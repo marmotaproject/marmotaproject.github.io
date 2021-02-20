@@ -72,7 +72,7 @@ draft: false
 # Github
 
 * **[Bruno Padilha, Fernando Barbosa](https://github.com/brunopadz/amictl)** - Projeto para gerenciamento das AIM's e Imagens na AWS, o projeto está em desenvolvimento mas se você quiser **[contribuir](https://github.com/brunopadz/amictl/blob/master/CONTRIBUTING.md)** será bem vindo.
-
+* **[Awesome Go](https://github.com/avelino/awesome-go)** - Repositório que centraliza diversas informações a cerca da linguagem.
 ---
 
 # Blogs

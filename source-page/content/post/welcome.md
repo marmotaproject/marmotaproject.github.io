@@ -6,7 +6,6 @@ draft: false
 
 Sejam bem-vind(x)s ao grupo de estudos Marmota!
 
-
 > **Nota**: Primeiramente, **FIQUE EM CASA**! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu **[Apoio](https://marmotaproject.github.io/page/apoio/)**.
 
 Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.

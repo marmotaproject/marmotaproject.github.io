@@ -36,43 +36,16 @@ Hoje milhares de pessoas seguem esta hashtag afim de desenvolverem nas mais dive
 
 Abaixo estão alguns projetos open source interessantes escritos em Go que precisam de ajuda e que você poderá acolhar para o desafio:
 
-# Gitea 
 
-**[Gitea](https://github.com/go-gitea/gitea)** é um projeto open source git simples, rápido de hospedar e objetivo. Gitea é uma ferramenta assim como gitlab, gitbucket que atende muito bem a grande maioria do que a gente precisa no dia-a-dia. 
+* **[Gitea](https://github.com/go-gitea/gitea)** é um projeto open source git simples, rápido de hospedar e objetivo. Gitea é uma ferramenta assim como gitlab, gitbucket que atende muito bem a grande maioria do que a gente precisa no dia-a-dia. 
+* **[Hugo](https://github.com/gohugoio/hugo)** é um framework web para construir páginas estáticas em Golang. Inclusive, este blog é desenvolvido em Hugo!
+* **[Maattermost](https://github.com/mattermost/mattermost-server)** é uma alternativa open source escrita em Go para o tão conhecido Slack.
+* **[Jaeger](https://github.com/jaegertracing/jaeger)** é uma plataforma de rastreamento distribuído (tracing).
+* **[Dep](https://github.com/golang/dep)** é uma ferramenta de gerenciamento de dependências para o Golang.
+* **[Micro](https://github.com/zyedidia/micro)** é um poderoso e leve editor de texto que pode ser configurado para digitação de textos em geral, ou programação. O **[Bruno Rocha](http://brunorocha.org/)** do canal Codeshow, **[publicou um vídeo ensinando a usar esta ferramenta](https://www.youtube.com/watch?v=LntSCE-L0xc)**.
+* **[Taskflow](https://github.com/taskctl/taskctl)** crie build pipelines em Go.
 
----
-
-# Hugo
-
-O **[Hugo](https://github.com/gohugoio/hugo)** é um framework web para construir páginas estáticas em Golang. Inclusive, este blog é desenvolvido em Hugo!
-
----
-
-# Mattermost server
-
-**[Maattermost](https://github.com/mattermost/mattermost-server)** é uma alternativa open source escrita em Go para o tão conhecido Slack.
-
----
-
-# Jaeger
-
-**[Jaeger](https://github.com/jaegertracing/jaeger)** é uma plataforma de rastreamento distribuído (tracing).
-
----
-
-# Dep
-
-**[Dep](https://github.com/golang/dep)** é uma ferramenta de gerenciamento de dependências para o Golang.
-
----
-
-# Micro 
-
-O **[Micro](https://github.com/zyedidia/micro)** é um poderoso e leve editor de texto que pode ser configurado para digitação de textos em geral, ou programação. O **[Bruno Rocha](http://brunorocha.org/)** do canal Codeshow, **[publicou um vídeo ensinando a usar esta ferramenta](https://www.youtube.com/watch?v=LntSCE-L0xc)**.
-
----
-
-Caso deseje explorar mais projetos, acesse o **[Codetriage.com](https://www.codetriage.com/?language=Go)**.
+Caso deseje explorar mais projetos, acesse o **[Codetriage.com](https://www.codetriage.com/?language=Go)** ou o **[Awesome Go](https://github.com/avelino/awesome-go)**.
 
 ---
 
