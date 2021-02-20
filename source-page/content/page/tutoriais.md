@@ -4,21 +4,20 @@ draft: false
 ---
 
 
-### Cursos em vídeo gratuitos
+# Cursos em vídeo gratuitos
 
 * **[Go Aprenda a Programar](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)** - PT-BR - Ellen Körbes
 * **[Go Language Programming Practical Basics Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)** - EN
-* **[Como criar um blog com Hugo](https://youtu.be/jjb2rgt9okY)** - PT-BR - Vitor Lobo
 
 ---
 
-### Cursos e Tutoriais
+# Cursos e Tutoriais
 
 * **[Lauren Ferreira](https://larien.gitbook.io/aprenda-go-com-testes/)** - Curso de introdução a programação Go com base em testes. - PT-BR
 
 ---
 
-### Livros/Web livros gratuitos
+# Livros/Web livros gratuitos
 
 * **[Golang Bootcamp](http://www.golangbootcamp.com/)** - Livro gratuito online ou em pdf - EN
 * **[The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)** - Livro gratuito mais resumido - EN
@@ -32,7 +31,7 @@ draft: false
 
 ---
 
-### Documentação  
+# Documentação  
 
 * **[Golang Brasil](http://www.golangbr.org/doc/)** - Documentação Oficial - PT-BR
 * **[Golang.org](https://golang.org/doc/)** - Documentação oficial - EN
@@ -40,19 +39,13 @@ draft: false
 
 ---
 
-### Sites de Busca e Ajuda
+# Sites de Busca e Ajuda
 
 * **[Stackoverflow](https://stackoverflow.com/questions/tagged/go?tab=Newest)** - Site de perguntas e respostas sobre várias tecnologias
 
 ---
 
-### Dicas
-
-* **[Como ajudar no site do marmotaproject](https://marmotaproject.github.io/docs/howto-hugo/)** - Como enviar um Pull Request para o site
-
----
-
-### Livros recomendados
+# Livros recomendados
 
 * **[Head First GO](https://url.gratis/3hiBp)** - Livro muito bom para iniciantes.
 * **[A linguagem de programação GO](https://url.gratis/9ekYl)** - Publicado em PT-BR pela editora Novatec.
@@ -62,34 +55,34 @@ draft: false
 
 ---
 
-### Plataforma de exercícios
+# Plataforma de exercícios
 
 * **[https://exercism.io/](https://exercism.io/)** - Plataforma de exercícios online para diversas linguagens de programação.
 * **[https://play.golang.org/](https://play.golang.org/)** - Plataforma para você aprender a programar em Go online, sem precisar instalar nada no seu computador.
 
 ---
 
-### Packages Conhecidos
+# Packages Conhecidos
 
 * **[cli](https://github.com/urfave/cli)** - A simple, fast, and fun package for building command line apps in Go
 * **[cobra](https://github.com/spf13/cobra)** - A Commander for modern Go CLI interactions
 
 ---
 
-### Github
+# Github
 
 * **[Bruno Padilha, Fernando Barbosa](https://github.com/brunopadz/amictl)** - Projeto para gerenciamento das AIM's e Imagens na AWS, o projeto está em desenvolvimento mas se você quiser **[contribuir](https://github.com/brunopadz/amictl/blob/master/CONTRIBUTING.md)** será bem vindo.
 
 ---
 
-### Blogs
+# Blogs
 
 * **[Cesar Gimenes](https://crg.eti.br/post/)** - Contém uma série de artigos e tutoriais em PT-BR.
 * **[Inanc Gumus](https://blog.learngoprogramming.com/)** - Artigos e tutoriais demonstrando os aspectos e caracteristicas da linguagem em EN.
 
 ---
 
-### Diversos
+# Diversos
 
 * **[https://golang.hotexamples.com](https://golang.hotexamples.com)** - Diversos exemplos em código para estudos.
 * **[https://gowalker.org/](https://gowalker.org)** - Diversos exemplos de um determinadoo pacote usado em projetos.

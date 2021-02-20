@@ -5,9 +5,7 @@ draft: false
 ---
 
 
-## Roadmap 
-
-### Comece por aqui
+# Roadmap - comece por aqui
 
 0. Antes de começar um desafio em uma determinada linguagem de programação, é necessário antes aprender o bêábá dela. Isto é, como a linguagem funciona, sua syntax, sua semântica e toda a estrutura inicial necessária antes de iniciar qualquer projeto. Pensando nisso, recomendamos que você assista aos vídeos da Ellen Körbes - **[Go Aprenda a Programar](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)** disponível gratuitamente.  Este curso é baseado no curso do Todd Mcleod,chamado Learn How To Code: Google's Go (golang) Programming Language disponível na plataforma Udemy. 
 
@@ -17,7 +15,7 @@ draft: false
 
 ---
 
-## 100DaysOfCode
+# 100DaysOfCode
 
 Se você já tem alguma experiência na linguagem GO e quer partir para um desafio ainda maior, talvez seja interessante partir daquí. Você já ouviu falar da hashtag #100DaysOfCode? Este desafio foi criado por **[Alexander Kallaway](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/)** um desenvolvedor Russo que costumava em seu tempo livre criar grupos de estudos chamados freeCodeCamps para incentivar o aprendizado em grupo.
 
@@ -27,7 +25,7 @@ Hoje milhares de pessoas seguem esta hashtag afim de desenvolverem nas mais dive
 
 > **Nota**: as regras aqui apresentadas, são apenas um caminho do qual você poderá seguir para cumprir seus objetivos em aprender Golang. Caso estas regras não façam sentido para você, sinta-se a vontade em faze-lo da maneira que desejar.
 
-#### Instruções:
+# Instruções:
 
 1. Comprometa-se a desenvolver algo por no mínimo 1 hora todos os dias pelos próximos 100 dias.
 2. **[Crie um repositório no Github](https://rogerdudler.github.io/git-guide/index.pt_BR.html)** e registre lá todas as suas atividades.
@@ -38,37 +36,37 @@ Hoje milhares de pessoas seguem esta hashtag afim de desenvolverem nas mais dive
 
 Abaixo estão alguns projetos open source interessantes escritos em Go que precisam de ajuda e que você poderá acolhar para o desafio:
 
-#### Gitea 
+# Gitea 
 
 **[Gitea](https://github.com/go-gitea/gitea)** é um projeto open source git simples, rápido de hospedar e objetivo. Gitea é uma ferramenta assim como gitlab, gitbucket que atende muito bem a grande maioria do que a gente precisa no dia-a-dia. 
 
 ---
 
-#### Hugo
+# Hugo
 
 O **[Hugo](https://github.com/gohugoio/hugo)** é um framework web para construir páginas estáticas em Golang. Inclusive, este blog é desenvolvido em Hugo!
 
 ---
 
-#### Mattermost server
+# Mattermost server
 
 **[Maattermost](https://github.com/mattermost/mattermost-server)** é uma alternativa open source escrita em Go para o tão conhecido Slack.
 
 ---
 
-#### Jaeger
+# Jaeger
 
 **[Jaeger](https://github.com/jaegertracing/jaeger)** é uma plataforma de rastreamento distribuído (tracing).
 
 ---
 
-#### Dep
+# Dep
 
 **[Dep](https://github.com/golang/dep)** é uma ferramenta de gerenciamento de dependências para o Golang.
 
 ---
 
-#### Micro 
+# Micro 
 
 O **[Micro](https://github.com/zyedidia/micro)** é um poderoso e leve editor de texto que pode ser configurado para digitação de textos em geral, ou programação. O **[Bruno Rocha](http://brunorocha.org/)** do canal Codeshow, **[publicou um vídeo ensinando a usar esta ferramenta](https://www.youtube.com/watch?v=LntSCE-L0xc)**.
 
@@ -78,9 +76,8 @@ Caso deseje explorar mais projetos, acesse o **[Codetriage.com](https://www.code
 
 ---
 
-### Dicas para não procrastinar
+# Dicas para não procrastinar
 
 Talvez o maior desafio do #100DaysOfCode, seja justamente ter disciplina para manter o tempo que você determinou para dedicar-se ao desafio diariamente. Pensando nisso, compartilharemos com vocês alguns artigos que trás orientações de como podemos nos organizar a cerca deste assunto: 
 
-* **[#Offtopic1 - Dicas para melhorar seu rendimento nos estudos](https://lobocode.me/2020/04/28/offtopic1/)**
 * **[O que fazer para dar ADEUS a procrastinação?](https://medium.com/@estefaniabarsante/o-que-fazer-para-dar-adeus-%C3%A0-procrastina%C3%A7%C3%A3o-7f3bd5659622)**
