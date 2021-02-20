@@ -19,7 +19,7 @@
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/page/apoio/</guid>
       <description>Nós do grupo de estudos Marmota ajudamos a divulgar canais, blogs, podcasts que produzem conteúdo de forma gratuita e outras causas que consideramos nobres. São elas:
-Iniciativas  Ribon: nós apoiamos a iniciativa da Startup Ribon. O Ribon é um aplicativo que te envia boas notícias diariamente e de quebra as notícias lidas geram uma moeda virtual chamada Ribon que podem ser revertidas em doações para caridade e sem gastar dinheiro.</description>
+Canais no Youtube  Ellen Körbes: a Ellen mantém um canal com material gratuito sobre Golang em seu canal Go Aprenda a Programar.   Nota: Se seu canal não está nesta lista, não se preocupe, iremos adicionar mais canais que apoiamos com o tempo.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@ Iniciativas  Ribon: nós apoiamos a iniciativa da Startup Ribon. O Ribon é um a
       <guid>https://marmotaproject.github.io/page/sobre/</guid>
       <description>Quem somos? Sejam bem vindo(x)s ao grupo de estudos Marmota.
 Somos uma comunidade formada por profissionais, estudantes e entusiastas apaixonados por tecnologia e toda a atmosfera que a envolve. Visamos difundir, instruir, estudar, compartilhar conhecimento e ensinar em grupo. Nos organizamos a cada 15 dias para trocar ideias a cerca metodologias, convenções, livros, cursos, desafios e tudo que envolva GOlang.
-Porque Marmota? Inicialmente o projeto se chamava Golfada. Com o tempo mudamos para Marmota que é simplesmente o mascote da linguagem Golang (o Gopher).</description>
+ Porque Marmota? Inicialmente o projeto se chamava Golfada. Com o tempo mudamos para Marmota que é simplesmente o mascote da linguagem Golang (o Gopher).</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ Porque Marmota? Inicialmente o projeto se chamava Golfada. Com o tempo mudamos p
       <pubDate>Mon, 04 May 2020 22:06:52 -0300</pubDate>
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/page/desafios/</guid>
-      <description>Roadmap Comece por aqui  Antes de começar um desafio em uma determinada linguagem de programação, é necessário antes aprender o bêábá dela. Isto é, como a linguagem funciona, sua syntax, sua semântica e toda a estrutura inicial necessária antes de iniciar qualquer projeto. Pensando nisso, recomendamos que você assista aos vídeos da Ellen Körbes - Go Aprenda a Programar disponível gratuitamente. Este curso é baseado no curso do Todd Mcleod,chamado Learn How To Code: Google&#39;s Go (golang) Programming Language disponível na plataforma Udemy.</description>
+      <description>Roadmap - comece por aqui  Antes de começar um desafio em uma determinada linguagem de programação, é necessário antes aprender o bêábá dela. Isto é, como a linguagem funciona, sua syntax, sua semântica e toda a estrutura inicial necessária antes de iniciar qualquer projeto. Pensando nisso, recomendamos que você assista aos vídeos da Ellen Körbes - Go Aprenda a Programar disponível gratuitamente. Este curso é baseado no curso do Todd Mcleod,chamado Learn How To Code: Google&#39;s Go (golang) Programming Language disponível na plataforma Udemy.</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@ Porque Marmota? Inicialmente o projeto se chamava Golfada. Com o tempo mudamos p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/page/tutoriais/</guid>
-      <description>Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN Como criar um blog com Hugo - PT-BR - Vitor Lobo   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.</description>
+      <description>Cursos em vídeo gratuitos  Go Aprenda a Programar - PT-BR - Ellen Körbes Go Language Programming Practical Basics Tutorial - EN   Cursos e Tutoriais  Lauren Ferreira - Curso de introdução a programação Go com base em testes. - PT-BR   Livros/Web livros gratuitos  Golang Bootcamp - Livro gratuito online ou em pdf - EN The Little Go Book - Livro gratuito mais resumido - EN Build Web Application with Golang - Construíndo aplicações web em GO - EN Golang Book - Mais um livro gratuito em GO - EN Gopherlabs - Outro material interessante para explorar - EN Quii Learn Go with Tests - Livro gratuito em formato Gitbook - EN Golang Tutorial Series - Introdução rápida ao GO - EN Go101 - Contém quizzes, exercícios, Wiki, etc.</description>
     </item>
     
   </channel>

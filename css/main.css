@@ -34,6 +34,11 @@ p a {
   /* text-decoration: underline */
   color: #008AFF;
 }
+
+.h1, h1 {
+font-size: 48px;
+}
+
 h1,h5,h6 {
   font-family: 'Amatic SC', cursive;
   font-weight: 800;
