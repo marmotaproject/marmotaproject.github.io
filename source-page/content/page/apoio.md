@@ -6,9 +6,18 @@ draft: false
 
 Nós do grupo de estudos Marmota ajudamos a divulgar canais, blogs, podcasts que produzem conteúdo de forma gratuita e outras causas que consideramos nobres. São elas:
 
+# Projetos de membros da comunidade
+
+* **[Lucas Severo Alves](https://github.com/knelasevero)** : Lucas mantém estes dois projetos o **[External Secret Operator](https://github.com/ContainerSolutions/externalsecret-operator)**, e o **[External Secrets](https://github.com/external-secrets/external-secrets)**. Trata-se de um operador que sincroniza segredos em providers externas pra segredos nativos k8s. É bem útil, mas bem simples de entender e contribuir.
+* **[Davi Moreira](https://github.com/devdrops)**: O Davi mantém um projeto muito legal chamado **[GoNotícias](https://gonoticias.substack.com/)** onde você poderá acompanhar as notícias mais recentes do Golang em uma única plataforma. Ou se preferir, poderá colaborar escrevendo notícias também. 
+
+---
+
 # Canais no Youtube
 
 * **Ellen Körbes**: a Ellen mantém um canal com material gratuito sobre Golang em seu canal **[Go Aprenda a Programar](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)**.
+* **Filho da Nuvem**: Claudson Oliveira manda muito bem neste canal do Youtube onde ele dá diversas dicas interessantes a cerca de Golang entre outros. Confira a playlist **[Golang de uma forma diferente](https://www.youtube.com/watch?v=JepHr8egvBI&list=PLzehOqhpwpxhhLnKRWF_XyJtPY0dnm1iJ)**
+
 
 > **Nota**: Se seu canal não está nesta lista, não se preocupe, iremos adicionar mais canais que apoiamos com o tempo. Ou se preferir, você mesmo poderá adicionar pois este **[projeto é totalmente aberto](https://github.com/marmotaproject/marmotaproject.github.io/blob/master/source-page/README.md)**.
 
