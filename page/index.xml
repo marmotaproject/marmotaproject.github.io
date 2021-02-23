@@ -19,7 +19,7 @@
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/page/apoio/</guid>
       <description>Nós do grupo de estudos Marmota ajudamos a divulgar canais, blogs, podcasts que produzem conteúdo de forma gratuita e outras causas que consideramos nobres. São elas:
-Canais no Youtube  Ellen Körbes: a Ellen mantém um canal com material gratuito sobre Golang em seu canal Go Aprenda a Programar.   Nota: Se seu canal não está nesta lista, não se preocupe, iremos adicionar mais canais que apoiamos com o tempo.</description>
+Projetos de membros da comunidade  Lucas Severo Alves : Lucas mantém estes dois projetos o External Secret Operator, e o External Secrets. Trata-se de um operador que sincroniza segredos em providers externas pra segredos nativos k8s. É bem útil, mas bem simples de entender e contribuir.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@ Somos uma comunidade formada por profissionais, estudantes e entusiastas apaixon
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/page/contato/</guid>
       <description>Para entrar em contato conosco, basta enviar um E-mail para:
- Vitor Lobo - lobocode@gmail.com Marcelo Freire - marcelo.freire88@gmail.com Henrique Oliveira - ioricloud@gmail.com Fabiano Florentino - fabiano.apk@gmail.com  Grupo no Telegram Para interagir melhor com a turma, sugerimos que entrem em nosso grupo no Telegram.</description>
+ Vitor Lobo - Fundador/Mantenedor Marcelo Freire - Colaborador Henrique Oliveira - Colaborador Fabiano Florentino - Colaborador  Grupo no Telegram Para interagir melhor com a turma, sugerimos que entrem em nosso grupo no Telegram.</description>
     </item>
     
     <item>

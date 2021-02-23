@@ -377,8 +377,9 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 48px;
   margin-top: 0;
+  font-family: 'Amatic SC', cursive;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -440,7 +441,8 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-family: 'Amatic SC', cursive;  
+    font-size: 48px;
   }
 }
 
