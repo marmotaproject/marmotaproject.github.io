@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Onde desenvolver?</title>
-      <link>https://marmotaproject.github.io/post/ides/</link>
-      <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
-      <author>lobocode@gmail.com (Marmota)</author>
-      <guid>https://marmotaproject.github.io/post/ides/</guid>
-      <description>Abaixo estão algumas dicas de ambientes que você poderá escolher na hora de estudar Golang: Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO.</description>
-    </item>
-    
-    <item>
       <title>Sejam bem-vind(x)s</title>
       <link>https://marmotaproject.github.io/post/welcome/</link>
       <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
