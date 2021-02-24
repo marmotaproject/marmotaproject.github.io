@@ -1,11 +1,19 @@
 ---
-title: "CheatSheets boas práticas"
+title: "CheatSheets e outras coisas"
 date: 2021-02-20T21:36:10-03:00
 weight: 2
-draft: true
+draft: false
 ---
 
-O Marmota Project produziu um compilado de cheetsheets com diversas abordagens que irão lhe auxiliar em sua jornada rumo ao aprendizado e aprofundamento na linguagem. Além disso, produzimos também alguns roadmaps e distribuímos os pdf's caso você tenha interesse em imprimi-los.
+O Marmota Project produziu um compilado de cheetsheets para ajudar na sua jornada rumo ao aprendizado e aprofundamento na linguagem GO. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf's caso você tenha interesse em imprimi-los. Vocês poderão conferir os CheatSheets produzidos por nós em nossa página no **[Pinterest](https://br.pinterest.com/marmotaproject/cheatsheets/)**. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf's:
+
+# Pdfs: 
+* **[CheatSheets01.pdf](https://github.com/marmotaproject/marmotaproject.github.io/raw/master/img/cheatsheets01.pdf)**
+* **[CheatSheets02.pdf](https://github.com/marmotaproject/marmotaproject.github.io/raw/master/img/cheatsheets02.pdf)**
+
+# Roadmaps
+
+* **[CheatSheets02.pdf](https://github.com/marmotaproject/marmotaproject.github.io/raw/master/img/roadmaps01.pdf)**
 
 ---
 

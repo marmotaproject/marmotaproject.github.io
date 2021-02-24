@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lobocode@gmail.com (Marmota)</managingEditor>
     <webMaster>lobocode@gmail.com (Marmota)</webMaster>
-    <lastBuildDate>Thu, 07 May 2020 21:36:10 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 21:36:10 -0300</lastBuildDate>
     
 	<atom:link href="https://marmotaproject.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,16 @@
       <description>Sejam bem-vind(x)s ao grupo de estudos Marmota!
  Nota: Primeiramente, FIQUE EM CASA! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu Apoio.
  Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades.</description>
+    </item>
+    
+    <item>
+      <title>CheatSheets e outras coisas</title>
+      <link>https://marmotaproject.github.io/post/sheet/</link>
+      <pubDate>Sat, 20 Feb 2021 21:36:10 -0300</pubDate>
+      <author>lobocode@gmail.com (Marmota)</author>
+      <guid>https://marmotaproject.github.io/post/sheet/</guid>
+      <description>O Marmota Project produziu um compilado de cheetsheets para ajudar na sua jornada rumo ao aprendizado e aprofundamento na linguagem GO. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf&#39;s caso você tenha interesse em imprimi-los. Vocês poderão conferir os CheatSheets produzidos por nós em nossa página no Pinterest. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf&#39;s:
+Pdfs:  CheatSheets01.pdf CheatSheets02.pdf  Roadmaps  CheatSheets02.pdf   Ferramenta usada: Inkscape</description>
     </item>
     
   </channel>
