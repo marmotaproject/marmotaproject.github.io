@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Onde desenvolver?</title>
+      <link>https://marmotaproject.github.io/post/ides/</link>
+      <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
+      <author>lobocode@gmail.com (Marmota)</author>
+      <guid>https://marmotaproject.github.io/post/ides/</guid>
+      <description>Abaixo estão algumas dicas de ambientes que você poderá escolher na hora de estudar Golang: Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO.</description>
+    </item>
+    
+    <item>
       <title>Sejam bem-vind(x)s</title>
       <link>https://marmotaproject.github.io/post/welcome/</link>
       <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
@@ -29,8 +38,7 @@
       <pubDate>Sat, 20 Feb 2021 21:36:10 -0300</pubDate>
       <author>lobocode@gmail.com (Marmota)</author>
       <guid>https://marmotaproject.github.io/post/sheet/</guid>
-      <description>O Marmota Project produziu um compilado de cheetsheets para ajudar na sua jornada rumo ao aprendizado e aprofundamento na linguagem GO. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf&#39;s caso você tenha interesse em imprimi-los. Vocês poderão conferir os CheatSheets produzidos por nós em nossa página no Pinterest. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf&#39;s:
-Pdfs:  CheatSheets01.pdf CheatSheets02.pdf  Roadmaps  CheatSheets02.pdf   Ferramenta usada: Inkscape</description>
+      <description>O Marmota Project produziu um compilado de cheetsheets para ajudar em sua jornada rumo ao aprendizado e aprofundamento na linguagem. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf&#39;s caso você tenha interesse em imprimi-los. Compreendemos que há diversas maneiras de fixar o aprendizado. E uma destas maneiras é através de manipulação de imagens! No mais, vocês poderão conferir os CheatSheets produzidos por nós em nossa página no Pinterest. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf&#39;s:</description>
     </item>
     
   </channel>

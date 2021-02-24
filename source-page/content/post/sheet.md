@@ -5,7 +5,7 @@ weight: 2
 draft: false
 ---
 
-O Marmota Project produziu um compilado de cheetsheets para ajudar na sua jornada rumo ao aprendizado e aprofundamento na linguagem GO. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf's caso você tenha interesse em imprimi-los. Vocês poderão conferir os CheatSheets produzidos por nós em nossa página no **[Pinterest](https://br.pinterest.com/marmotaproject/cheatsheets/)**. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf's:
+O Marmota Project produziu um compilado de cheetsheets para ajudar em sua jornada rumo ao aprendizado e aprofundamento na linguagem. Além disso, produzimos também alguns RoadMaps e distribuímos os pdf's caso você tenha interesse em imprimi-los. Compreendemos que há diversas maneiras de fixar o aprendizado. E uma destas maneiras é através de manipulação de imagens! No mais, vocês poderão conferir os CheatSheets produzidos por nós em nossa página no **[Pinterest](https://br.pinterest.com/marmotaproject/cheatsheets/)**. Caso desejem imprimilo-s, abaixo deixamos os respectivos pdf's: 
 
 # Pdfs: 
 * **[CheatSheets01.pdf](https://github.com/marmotaproject/marmotaproject.github.io/raw/master/img/cheatsheets01.pdf)**
